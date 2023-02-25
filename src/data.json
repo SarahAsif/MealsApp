@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Mutton Qorma ",
+    "description": "With Spicy Gravy",
+    "price": 23.0
+  },
+  {
+    "id": 2,
+    "name": "Biryani",
+    "description": "Craving Dish!",
+    "price": 30.5
+  },
+  {
+    "id": 3,
+    "name": "Roll Paratha",
+    "description": "Taste it like you have never done before",
+    "price": 12.99
+  },
+  {
+    "id": 4,
+    "name": "Salad",
+    "description": "Health is wealth",
+    "price": 99.9
+  },
+  {
+    "id": 5,
+    "name": "Burger",
+    "description": "A double Storey",
+    "price": 12.9
+  },
+  {
+    "id": 6,
+    "name": "Fries",
+    "description": "Yummy Potatoes",
+    "price": 32.3
+  }
+]
